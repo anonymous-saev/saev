@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+wandb/
+artifacts/
+checkpoints/
+logs/
+.hypothesis/
+.aider*
+.env
+.DS_Store
+tmp/
+.coverage
+saev.egg-info/
+elm-stuff/
+data/
